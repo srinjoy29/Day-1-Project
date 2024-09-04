@@ -15,15 +15,11 @@ const About = () => {
       <div className="about-section-text-container">
         <p className="primary-subheading">About</p>
         <h1 className="primary-heading">
-          Food Is An Important Part Of A Balanced Diet
+        Food fuels life’s adventures and flavors the moments that matter most.
         </h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
-        </p>
-        <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
+          Food is the essence of life's journey, offering both sustenance and pleasure. It nourishes our bodies, sparks joy, and brings people together in shared moments of delight.
+      
         </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>
